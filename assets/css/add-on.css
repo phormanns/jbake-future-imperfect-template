@@ -216,20 +216,7 @@ blockquote p {
     outline: none;
 }
 
-.share-btn.twitter     { background: #55acee; }
-.share-btn.google-plus { background: #dd4b39; }
-.share-btn.facebook    { background: #3B5998; }
-.share-btn.linkedin    { background: #4875B4; }
-.share-btn.stumbleupon { background: #EB4823; }
-.share-btn.reddit      { background: #ff5700; }
 .share-btn.email       { background: #444444; }
-
-.share-btn.twitter:hover     { background: #4c9ad6 }
-.share-btn.google-plus:hover { background: #c64333; }
-.share-btn.facebook:hover    { background: #2f4779; }
-.share-btn.linkedin:hover    { background: #4069a2; }
-.share-btn.stumbleupon:hover { background: #d3401f; }
-.share-btn.reddit:hover      { background: #e54e00; }
 .share-btn.email:hover       { background: #363636; }
 
 /* Share Menu */

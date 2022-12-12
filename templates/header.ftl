@@ -4,7 +4,7 @@
     html5up.net | @n33co
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html lang="en">
+<html lang="de">
   <head>
     <meta charset="utf-8"/>
     <title>${config.site_title}<#if (content.title)??> - <#escape x as x?xml>${content.title}</#escape></#if></title>

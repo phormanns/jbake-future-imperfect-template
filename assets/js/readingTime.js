@@ -21,7 +21,7 @@ Licensed under the MIT license
 	        wordCountTarget: null,
 	        wordsPerMinute: 270,
 	        round: true,
-	        lang: 'en',
+	        lang: 'de',
 			lessThanAMinuteString: '',
 			prependTimeString: '',
 			prependWordString: '',
@@ -66,7 +66,7 @@ Licensed under the MIT license
 	    //if s.lang is set to german
         } else if(s.lang == 'de') {
 
-	        var lessThanAMinute = s.lessThanAMinuteString || "Weniger als eine Minute";
+	        var lessThanAMinute = s.lessThanAMinuteString || "Keine Minute";
 
 	        var minShortForm = 'min';
 
