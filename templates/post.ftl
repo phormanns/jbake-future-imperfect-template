@@ -9,8 +9,7 @@
 		</#if>
 		
 		<#include "post/prev-next-post.ftl">
-		
-		<#include "commons/disqus.ftl">
+
     </div>
 
 	<#include "commons/sidebar.ftl">
